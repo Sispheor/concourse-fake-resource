@@ -1,0 +1,8 @@
+{
+  "source": {
+    "variable_name": "value"
+  },
+  "params":{
+    "output_param": "output_param_value"
+  }
+}
