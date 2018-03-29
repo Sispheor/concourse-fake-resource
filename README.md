@@ -36,7 +36,7 @@ jobs:
 
 ## Docker
 
-How to build this image
+This image is [available on Docker hub](https://hub.docker.com/r/sispheor/concourse-fake-resource/), but you can build it by yourself if you want to push it into your own repository
 ```
 docker build --force-rm=true -t concourse-fake-resource .
 ```
